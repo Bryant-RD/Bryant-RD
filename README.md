@@ -8,7 +8,7 @@
 </h1>
 
 - 🌱 I’m currently learning **{ ReactJS, ExpressJS }**
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about: **JavaScript**
 - 📫 How to reach me: **briant04.rt@gmail.com**
 - 😄 Follow me: [Instagram](https://www.instagram.com/briant_reynoso/)
 
