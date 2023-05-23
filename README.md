@@ -1,6 +1,6 @@
 <div style="background:linear-gradient(160deg, rgba(27,28,28,1) 50%, rgba(0,232,161,1) 100%); padding: 0 0.5em;">
 <p align="center">
-<img style="height: 10em; margin: 1em 0; border-radius: 5px;" src="perfil.jpg">
+<img style="height: 15em; margin: 1em 0;" src="perfil.jpg">
 </p>
 <h1 align="center" style="color:#fff; font-size: 2em;">
 <em>Bryant Reynoso</em>
