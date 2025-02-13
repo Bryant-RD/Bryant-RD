@@ -1,41 +1,64 @@
-<div style="background:linear-gradient(160deg, rgba(27,28,28,1) 50%, rgba(0,232,161,1) 100%); padding: 0 0.5em;">
-<p align="center">
-<img style="height: 15em; margin: 1em 0;" src="perfil.jpg">
-</p>
-<h1 align="center" style="color:#fff; font-size: 2em;">
-<em>Bryant Reynoso</em>
-<b>- FullStack Developer </b>
-</h1>
+<div align="center">
+  <img src="perfil.jpg" width="180" style="border-radius: 50%;" alt="Bryant Reynoso">
+</div>
 
-- 🌱 I’m currently learning **{ ReactJS, ExpressJS }**
-- 💬 Ask me about: **JavaScript**
-- 📫 How to reach me: **briant04.rt@gmail.com**
-- 😄 Follow me: [Instagram](https://www.instagram.com/briant_reynoso/)
+<h1 align="center">👋 Hey, I'm Bryant Reynoso</h1>
+<h3 align="center">🚀 FullStack Developer | Passionate about Tech & Innovation</h3>
 
-### ✅ &nbsp;<span style="color: #fff;">Programming Languages</span>
+---
 
-<img alt="HTML 5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/> <img alt="JavaScript(ES6)" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" /> <img alt="CSS 3" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"/> <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+### 🌟 About Me
+- 🔭 I’m currently working on **FullStack projects Flutter and Python.**
+- 🌱 I’m currently learning **Python and IA.**
+- 💬 Ask me about **JavaScript, Java, Python, Spring Boot, Django, Flutter, and REST APIs.**
+- 📫 How to reach me: **[briant04.rt@gmail.com](mailto:briant04.rt@gmail.com)**
+- 🔗 Follow me: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/briant_reynoso/)
+
+---
+
+### 🛠 Tech Stack
+#### 💻 Programming Languages:
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🚀 Frameworks & Libraries:
+![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### 🗄 Databases:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-%23E42528.svg?style=for-the-badge&logo=apache-couchdb&logoColor=white)
 
 
-### 🛠 &nbsp;<span style="color: #fff;">Frameworks</span>
+---
 
-<img alt="ReactJS" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/> <img alt="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/>
+### 📌 Featured Projects
+- 🔎 **[FindMe](https://github.com/Bryant-RD/FindMe)** – An interactive landing page that compiles information from all Scout groups in the Dominican Republic and presents it in a clear and accessible way. Its objective is to provide visibility to the Scout movement and facilitate new people to join, connecting interested parties with the closest groups.
+- 🎮 **[Pokedex-Flutter](https://github.com/Bryant-RD/Pokedex-Flutter)** – A Pokédex app built using Flutter, displaying Pokémon data with a sleek UI and API integration.
+- 🌱 **[Spring Boot Final Project](https://github.com/Bryant-RD/Practicas-Spring-Boot/tree/main/Proyecto%20final)** – A full-featured Spring Boot project implementing REST APIs, database integration, and best practices.
 
-### 🛠 &nbsp;<span style="color: #fff;">Data Bases</span>
-<img alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
-<img alt="PostreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"/>
-<img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
-<!--
-**Bryant-RD/Bryant-RD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryant-RD&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Get in Touch
+💌 **Email:** [briant04.rt@gmail.com](mailto:briant04.rt@gmail.com)  
+🌍 **Portfolio:** [Coming Soon 🚧]  
+
+---
+
+🔥 _Let's build something amazing together!_
